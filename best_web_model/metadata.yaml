@@ -1,0 +1,12 @@
+description: Ultralytics best model trained on flow.ymal
+author: Ultralytics
+license: GPL-3.0 https://ultralytics.com/license
+version: 8.0.53
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: flower
